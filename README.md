@@ -1,5 +1,5 @@
-<h3>🄶🄾🄾🄳 🅅🄸🄱🄴🅂 🄾🄷🄼🄻🅈t</h3>
-  <p align="center">
+<h3>🄶🄾🄾🄳 🅅🄸🄱🄴🅂 🄾🄷🄼🄻🅈</h3>
+  <p align="left">
 An open source NFT marketplace built on Reservoir, Thirdweb, and Manifold.
 
 <!-- ABOUT THE PROJECT -->

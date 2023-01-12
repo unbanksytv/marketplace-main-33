@@ -1,6 +1,6 @@
-<h3 align="center">Reservoir Market</h3>
+<h3>🄶🄾🄾🄳 🅅🄸🄱🄴🅂 🄾🄷🄼🄻🅈t</h3>
   <p align="center">
-An open source NFT marketplace built on Reservoir.
+An open source NFT marketplace built on Reservoir, Thirdweb, and Manifold.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
